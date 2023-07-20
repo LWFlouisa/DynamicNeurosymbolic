@@ -1,4 +1,4 @@
-# DynamicNeurosymbolic
+# Dynamic Neuro Symbolic
 Neurosymbolic engine with a day night cycle,
 
 ## Pseudocode
